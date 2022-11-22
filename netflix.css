@@ -317,12 +317,20 @@ footer {
     color: #737373;
 }
 
+.each_faq a:hover {
+    text-decoration: underline;
+}
+
 footer h5 {
-    font-weight: 300;
+    font-weight: 400;
     color: #737373;
 }
 
 footer a {
     text-decoration: none;
     color: #737373;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
