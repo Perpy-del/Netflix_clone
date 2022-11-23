@@ -1,6 +1,16 @@
-## [Link to my hosted Netlify page](https://stutern-netflixclone.netlify.app)
-This assignment entails cloning the [Netflix landing page](https://www.netflix.com/ng/)
+# Netflix Clone
+#### A project to replicate the Netflix landing page using HTML and CSS only.
+#### By Perpetual Meninwa
 
-We are only using HTML and CSS without the JS scripting and every other part.
+# Description
+Netflix is an web application created so that users can enjoy beautiful and amazing movies from around the world from the comfort of their homes. This project entails using the knowledge we have gained over time to replicate the landing page just as it is here [Netflix landing page](https://www.netflix.com/ng/)
 
-This would be fun... Yay!!!
+# Setup/Installation Requirements
+ - Access GitHub on any web browser.
+ - Clone this [Netflix-clone repository](https://github.com/Perpy-del/Netflix_clone.git)
+
+# Live Demo
+### Here is the link to the live page [Netflix Clone](https://www.netflix.com/ng/)
+
+This was fun!!
+
