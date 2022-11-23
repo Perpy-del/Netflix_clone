@@ -7,7 +7,7 @@ Netflix is an web application created so that users can enjoy beautiful and amaz
 
 # Setup/Installation Requirements
  - Access GitHub on any web browser.
- - Clone this [Netflix-clone repository](https://github.com/Perpy-del/Netflix_clone.git)
+ - Clone this ```bash https://github.com/Perpy-del/Netflix_clone.git```
 
 # Live Demo
 ### Here is the link to the live page [Netflix Clone](https://stutern-netflixclone.netlify.app/)
