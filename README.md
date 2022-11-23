@@ -10,7 +10,6 @@ Netflix is an web application created so that users can enjoy beautiful and amaz
  - Clone this [Netflix-clone repository](https://github.com/Perpy-del/Netflix_clone.git)
 
 # Live Demo
-### Here is the link to the live page [Netflix Clone](https://www.netflix.com/ng/)
+### Here is the link to the live page [Netflix Clone](https://stutern-netflixclone.netlify.app/)
 
 This was fun!!
-
